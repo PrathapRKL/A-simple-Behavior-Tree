@@ -1,7 +1,7 @@
 # A simple Behavior Tree written in C++ for a personal project/assignment.
 
 ### Here's the code ->
-````C++
+```cpp
 // BTree.cpp : This code belongs to Prathap Ravichander.
 
 #include<pch.h>

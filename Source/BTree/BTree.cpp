@@ -144,7 +144,7 @@ public:
 	{
 		if (CanSeePlayer->DistanceToPlayer > 0)
 		{
-			cout << "The AI is still far away from the player";
+			cout << "The AI is still far away from the player" << endl;
 			return false;
 		}
 		CanSeePlayer->PlayerSpotted = true;
